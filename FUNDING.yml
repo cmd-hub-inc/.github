@@ -1,0 +1,16 @@
+# GitHub funding config
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-funding
+
+# Replace the placeholders below with your project/org sponsorship handles or URLs.
+
+github:
+  - "cmd-hub-inc"
+
+open_collective: "your-open-collective-slug"
+patreon: "your-patreon-name"
+ko-fi: "your-ko-fi-id"
+paypal: "https://paypal.me/yourname"
+custom:
+  - "https://example.com/donate"
+
+# Remove any keys you don't use. GitHub will show the configured funding links on the repository.
